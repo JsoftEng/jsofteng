@@ -9,7 +9,6 @@ When I'm not knee deep in code I'm usually spending time with my dog Kaiser 🐶
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsofteng)](https://github.com/jsofteng/github-readme-stats)
 
 <br>
-<br>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jsofteng)
