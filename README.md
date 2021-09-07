@@ -19,3 +19,5 @@ When I'm not knee deep in code I'm usually spending time with my dog Kaiser 🐶
 
 <br>
 <br>
+
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsofteng)](https://github.com/jsofteng/github-readme-stats)
