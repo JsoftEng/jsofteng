@@ -4,6 +4,12 @@ Hi, I'm John, a full-stack software engineer with a passion for front-end develo
 
 When I'm not knee deep in code I'm usually spending time with my dog Kaiser 🐶, gaming, watching anime or on some wild adventure with a couple of friends.
 <br>
+<br>
+
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsofteng)](https://github.com/jsofteng/github-readme-stats)
+
+<br>
+<br>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jsofteng)
@@ -19,5 +25,3 @@ When I'm not knee deep in code I'm usually spending time with my dog Kaiser 🐶
 
 <br>
 <br>
-
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsofteng)](https://github.com/jsofteng/github-readme-stats)
