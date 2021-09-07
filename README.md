@@ -6,7 +6,7 @@ When I'm not knee deep in code I'm usually spending time with my dog Kaiser 🐶
 <br>
 <br>
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsofteng?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsofteng)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
