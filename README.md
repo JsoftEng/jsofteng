@@ -19,7 +19,9 @@ When I'm not knee deep in code I'm usually spending time with my dog Kaiser 🐶
 <br>
 
 ## Languages & Tools
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-222222.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="laravel" src="https://img.shields.io/badge/laravel-ff2d20.svg?&style=for-the-badge&logo=Laravel&logoColor=white" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
 <br>
